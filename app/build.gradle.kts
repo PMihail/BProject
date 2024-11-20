@@ -79,4 +79,6 @@ dependencies {
     implementation (libs.okhttp3.logging.interceptor)
 
     implementation (libs.com.jakewharton.timber)
+
+    implementation(libs.androidx.splash)
 }
